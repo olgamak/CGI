@@ -1,0 +1,35 @@
+{
+    "nom": "Clark",
+    "prenom": "Kent",
+    "dateNaiss":"1900-11-12",
+    "mois": "2016-03",
+    "courriel":"superman@gmail.com",
+    "contrat": "A",
+    "dossier":"A19001112", 
+    "reclamations": [
+        {
+            "soin": 175,
+            "date": "2016-03-07",
+            "montant": "130.00$",
+            "medecin": "COD1279"
+        },
+        {
+            "soin": 150,
+            "date": "2016-03-15",
+            "montant": "110.00$",
+            "medecin": "MHD0219"
+        },
+        {
+            "soin": 200,
+            "date": "2016-03-25",
+            "montant": "80.00$",
+            "medecin": "KMP1290"
+        },
+        {
+            "soin": 100,
+            "date": "2016-03-18",
+            "montant": "230.00$",
+            "medecin": "KOG0972"
+        }
+    ]
+}
