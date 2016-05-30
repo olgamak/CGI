@@ -1,0 +1,94 @@
+form{
+	width: 600px;
+	height: 440px;
+	
+	margin : 0 auto;
+	position: relative;
+	top : 100px;
+	background-color : #ECF0F1;
+}
+.clName{
+	width: 300px;
+	height: 90px;
+	
+	margin : 0 auto;
+	position: relative;
+	top : 50px;
+	background-color : #22A7F0;
+	border-color: transparent;
+	display: block;
+	color: #2C3E50;
+	font-size: 20px;
+}
+.clPrix{
+	position: relative;
+	top : 80px;
+}
+.submit{
+	position: relative;
+	top : 120px;
+	background-color: #2C3E50;
+	color : white;
+	width: 250px;
+	height: 70px;
+}
+.home{
+	font-family: Arial;
+    color: white;
+    font-size: 20px;
+    background: #1E824C;
+    
+    width: 100px;
+    height: 35px;
+    position: relative;
+    left: 30px;
+    
+    text-align: center;
+vertical-align: middle;
+line-height: 35px; 
+float:left;
+}
+.act{
+	background-color: #333;
+    color : white;
+    width: 100px;
+}
+.home:hover{
+	background-color: white;
+    color : gray;
+}
+.choice{
+	width: 300px;
+	height: 90px;
+	
+	margin : 0 auto;
+	position: relative;
+	top : 50px;
+	left: 30px;
+	color: #2C3E50;
+	font-size: 20px;
+}
+.aHome{
+	text-decoration: none;
+}
+
+select{
+	width: 300px;
+    height: 70px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 30px;
+    color: #2C3E50;
+	font-size: 20px;
+	background : #799BB6;	
+}
+option{
+	color: #2C3E50;
+	font-size: 20px;
+}
+
+.subDown{
+	position: relative;
+	top:160px;
+}

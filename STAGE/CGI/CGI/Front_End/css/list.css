@@ -1,0 +1,33 @@
+table
+{
+    
+    border:5px transparent;
+    position: relative;
+    top: 30px;
+    margin : 0 auto;
+}
+
+td, th 
+{
+    border: 1px solid transparent;
+    width: 250px;
+    height: 80px;
+    
+    
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+   
+    
+    text-align: center;
+vertical-align: middle;
+line-height: 100px; 
+}
+
+th{
+	
+	background: #333;    
+}
+td{
+	background: #60353C;
+}

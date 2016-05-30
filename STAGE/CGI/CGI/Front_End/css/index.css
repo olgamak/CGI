@@ -1,0 +1,80 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+.entete {
+	background-color: #22a7f0;
+	height: 35px;
+}
+.ligne {
+	background-color: white;
+	height: 5px;
+}
+.ville {
+	background-image: url("http://jaybanks.ca/images/photos/vancouver-downtown.jpg");
+	background-size: cover;
+	background-position: 50% 0%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 800px;
+	
+}
+
+
+ul {
+    list-style-type: none;
+    
+    overflow: hidden;
+    background-color: #333;
+    width: 815px;
+    margin: auto;
+	position: relative;
+	top: 250px;
+	height: 100px;
+	padding-left: 0px;
+	font-size:35px;
+}
+
+li {
+    float: left;
+    border-right:5px solid #bbb;
+    height: 100px;
+    width: 200px;
+    
+}
+
+li:last-child {
+    border-right: none;
+    width: 200px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    
+    text-decoration: none;
+    height: 100px;
+    width: 200px;
+    padding-top: 25px;
+    
+    
+}
+
+li a:hover:not(.active) {
+    background-color: white;
+    color : gray;
+    width: 200px;
+}
+
+.create {
+    background-color: #1E824C;
+    width: 200px;//            
+}
+.delete{
+	background-color: #60353C;
+}
+.update{
+	background-color: #799BB6;
+}
